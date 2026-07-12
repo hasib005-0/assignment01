@@ -255,6 +255,11 @@
     color: #2563eb;
     font-weight: 600;
 }
+.price-card.active a{
+    background: #2563eb;
+    color: #fff;
+    border-color: #2563eb;
+}
 
 /* highlight  */
 .active{
